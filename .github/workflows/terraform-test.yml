@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  terraform:
+  terraform-test:
     name: 'Terraform Test'
     runs-on: ubuntu-latest
 
